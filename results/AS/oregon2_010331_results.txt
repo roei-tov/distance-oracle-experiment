@@ -1,0 +1,60 @@
+--------------------
+oregon2_010331 Network
+--------------------
+Number of Nodes 10900
+Number of Edges 31180
+==============================================
+Results for k=2
+---------------------
+Property 9 holds for 0%
+Property 10 holds for 48.43%
+Property 11 holds for 43.44%
+One of the properties hold for 91.86%
+Exact Percentage: 2.12%
+Worst Case Percentage: 0.05%
+Average Stretch when properties hold: 1.53
+Average Stretch when properties don't hold: 2.12
+Average Stretch: 1.58
+==============================================
+
+==============================================
+Results for k=3
+---------------------
+Property 9 holds for 11.72%
+Property 10 holds for 72.87%
+Property 11 holds for 56.61%
+One of the properties hold for 100%
+Exact Percentage: 4.53%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.63
+Average Stretch when properties don't hold: -
+Average Stretch: 1.63
+==============================================
+
+==============================================
+Results for k=5
+---------------------
+Property 9 holds for 41.61%
+Property 10 holds for 86.78%
+Property 11 holds for 42.31%
+One of the properties hold for 100%
+Exact Percentage: 2.13%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.63
+Average Stretch when properties don't hold: -
+Average Stretch: 1.63
+==============================================
+
+==============================================
+Results for k=10
+---------------------
+Property 9 holds for 91.67%
+Property 10 holds for 98.03%
+Property 11 holds for 36.41%
+One of the properties hold for 100%
+Exact Percentage: 13.35%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.65
+Average Stretch when properties don't hold: -
+Average Stretch: 1.65
+==============================================

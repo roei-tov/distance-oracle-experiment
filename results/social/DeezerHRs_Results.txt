@@ -1,0 +1,60 @@
+--------------------
+Deezer HR Network
+--------------------
+Number of Nodes 54573
+Number of Edges 498202
+==============================================
+Results for k=2
+---------------------
+Property 9 holds for 0%
+Property 10 holds for 57.8%
+Property 11 holds for 41.62%
+One of the properties hold for 99.43%
+Exact Percentage: 4.49%
+Worst Case Percentage: 0.16%
+Average Stretch when properties hold: 1.46
+Average Stretch when properties don't hold: 2.46
+Average Stretch: 1.46
+==============================================
+
+==============================================
+Results for k=3
+---------------------
+Property 9 holds for 19.95%
+Property 10 holds for 80.35%
+Property 11 holds for 42.37%
+One of the properties hold for 100%
+Exact Percentage: 1.75%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.61
+Average Stretch when properties don't hold: -
+Average Stretch: 1.61
+==============================================
+
+==============================================
+Results for k=5
+---------------------
+Property 9 holds for 79.17%
+Property 10 holds for 94.45%
+Property 11 holds for 46.57%
+One of the properties hold for 100%
+Exact Percentage: 1.23%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.67
+Average Stretch when properties don't hold: -
+Average Stretch: 1.67
+==============================================
+
+==============================================
+Results for k=10
+---------------------
+Property 9 holds for 97.05%
+Property 10 holds for 99.65%
+Property 11 holds for 48.21%
+One of the properties hold for 100%
+Exact Percentage: 1.16%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.83
+Average Stretch when properties don't hold: -
+Average Stretch: 1.83
+==============================================

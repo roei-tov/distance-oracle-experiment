@@ -1,0 +1,60 @@
+--------------------
+CA-HepTh Network
+--------------------
+Number of Nodes 8638
+Number of Edges 24827
+==============================================
+Results for k=2
+---------------------
+Property 9 holds for 0%
+Property 10 holds for 73%
+Property 11 holds for 26.52%
+One of the properties hold for 99.52%
+Exact Percentage: 10.02%
+Worst Case Percentage: 0.1%
+Average Stretch when properties hold: 1.37
+Average Stretch when properties don't hold: 2.31
+Average Stretch: 1.38
+==============================================
+
+==============================================
+Results for k=3
+---------------------
+Property 9 holds for 24.08%
+Property 10 holds for 90.66%
+Property 11 holds for 28.75%
+One of the properties hold for 100%
+Exact Percentage: 5.22%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.57
+Average Stretch when properties don't hold: -
+Average Stretch: 1.57
+==============================================
+
+==============================================
+Results for k=5
+---------------------
+Property 9 holds for 58.62%
+Property 10 holds for 98.5%
+Property 11 holds for 32.19%
+One of the properties hold for 100%
+Exact Percentage: 2.94%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.64
+Average Stretch when properties don't hold: -
+Average Stretch: 1.64
+==============================================
+
+==============================================
+Results for k=10
+---------------------
+Property 9 holds for 91.58%
+Property 10 holds for 99.91%
+Property 11 holds for 39.33%
+One of the properties hold for 100%
+Exact Percentage: 3.64%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.66
+Average Stretch when properties don't hold: -
+Average Stretch: 1.66
+==============================================
