@@ -10,6 +10,7 @@ Deezer HU: https://snap.stanford.edu/data/gemsec-Deezer.html
 ### Collaboration
 
 General Relativity and Quantum Cosmology collaboration: https://snap.stanford.edu/data/ca-GrQc.html
+
 High Energy Physics - Theory collaboration: https://snap.stanford.edu/data/ca-HepTh.html
 
 ### Communication
