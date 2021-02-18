@@ -1,0 +1,27 @@
+{
+  "name": "distance-oracle-experiment",
+  "version": "1.0.0",
+  "description": "Distance Oracle Experiment",
+  "main": "DistanceOracleExperiment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roei-tov/distance-oracle-experiment.git"
+  },
+  "keywords": [
+    "Distance",
+    "Oracle",
+    "Experiment"
+  ],
+  "author": "Roei Tov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roei-tov/distance-oracle-experiment/issues"
+  },
+  "homepage": "https://github.com/roei-tov/distance-oracle-experiment#readme",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}

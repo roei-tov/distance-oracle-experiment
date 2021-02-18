@@ -1,0 +1,60 @@
+--------------------
+Github Network
+--------------------
+Number of Nodes 37700
+Number of Edges 289003
+==============================================
+Results for k=2
+---------------------
+Property 9 holds for 0%
+Property 10 holds for 39.28%
+Property 11 holds for 49.75%
+One of the properties hold for 89.03%
+Exact Percentage: 2.48%
+Worst Case Percentage: 0.04%
+Average Stretch when properties hold: 1.54
+Average Stretch when properties don't hold: 2.21
+Average Stretch: 1.62
+==============================================
+
+==============================================
+Results for k=3
+---------------------
+Property 9 holds for 20.99%
+Property 10 holds for 71.67%
+Property 11 holds for 49.26%
+One of the properties hold for 100%
+Exact Percentage: 1.88%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.6
+Average Stretch when properties don't hold: -
+Average Stretch: 1.6
+==============================================
+
+==============================================
+Results for k=5
+---------------------
+Property 9 holds for 58.38%
+Property 10 holds for 90.68%
+Property 11 holds for 38.53%
+One of the properties hold for 100%
+Exact Percentage: 1.1%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.76
+Average Stretch when properties don't hold: -
+Average Stretch: 1.76
+==============================================
+
+==============================================
+Results for k=10
+---------------------
+Property 9 holds for 94.19%
+Property 10 holds for 97.92%
+Property 11 holds for 39.63%
+One of the properties hold for 100%
+Exact Percentage: 0.9%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.88
+Average Stretch when properties don't hold: -
+Average Stretch: 1.88
+==============================================

@@ -1,0 +1,60 @@
+--------------------
+Ego Facebook Network
+--------------------
+Number of Nodes 4039
+Number of Edges 88234
+==============================================
+Results for k=2
+---------------------
+Property 9 holds for 0%
+Property 10 holds for 48.68%
+Property 11 holds for 44.95%
+One of the properties hold for 93.64%
+Exact Percentage: 3.31%
+Worst Case Percentage: 0.33%
+Average Stretch when properties hold: 1.45
+Average Stretch when properties don't hold: 2.08
+Average Stretch: 1.49
+==============================================
+
+==============================================
+Results for k=3
+---------------------
+Property 9 holds for 55.46%
+Property 10 holds for 63.58%
+Property 11 holds for 56.33%
+One of the properties hold for 100%
+Exact Percentage: 8.01%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.49
+Average Stretch when properties don't hold: -
+Average Stretch: 1.49
+==============================================
+
+==============================================
+Results for k=5
+---------------------
+Property 9 holds for 62.59%
+Property 10 holds for 93.75%
+Property 11 holds for 56.93%
+One of the properties hold for 100%
+Exact Percentage: 2.66%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.6
+Average Stretch when properties don't hold: -
+Average Stretch: 1.6
+==============================================
+
+==============================================
+Results for k=10
+---------------------
+Property 9 holds for 90.77%
+Property 10 holds for 98.28%
+Property 11 holds for 49.55%
+One of the properties hold for 100%
+Exact Percentage: 3.68%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.61
+Average Stretch when properties don't hold: -
+Average Stretch: 1.61
+==============================================

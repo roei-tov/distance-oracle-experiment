@@ -1,0 +1,60 @@
+--------------------
+Facebook New Sites Pages Network
+--------------------
+Number of Nodes 27917
+Number of Edges 206259
+==============================================
+Results for k=2
+---------------------
+Property 9 holds for 0%
+Property 10 holds for 60.35%
+Property 11 holds for 38.6%
+One of the properties hold for 98.95%
+Exact Percentage: 6.66%
+Worst Case Percentage: 0.09%
+Average Stretch when properties hold: 1.41
+Average Stretch when properties don't hold: 2.26
+Average Stretch: 1.41
+==============================================
+
+==============================================
+Results for k=3
+---------------------
+Property 9 holds for 19.65%
+Property 10 holds for 82.63%
+Property 11 holds for 39.16%
+One of the properties hold for 100%
+Exact Percentage: 2.7%
+Worst Case Percentage: 0.01%
+Average Stretch when properties hold: 1.58
+Average Stretch when properties don't hold: -
+Average Stretch: 1.58
+==============================================
+
+==============================================
+Results for k=5
+---------------------
+Property 9 holds for 72.16%
+Property 10 holds for 95.07%
+Property 11 holds for 41.19%
+One of the properties hold for 100%
+Exact Percentage: 2.83%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.53
+Average Stretch when properties don't hold: -
+Average Stretch: 1.53
+==============================================
+
+==============================================
+Results for k=10
+---------------------
+Property 9 holds for 96.44%
+Property 10 holds for 99.47%
+Property 11 holds for 44.86%
+One of the properties hold for 100%
+Exact Percentage: 1.6%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.77
+Average Stretch when properties don't hold: -
+Average Stretch: 1.77
+==============================================

@@ -1,0 +1,60 @@
+--------------------
+Twitch DE Network
+--------------------
+Number of Nodes 9498
+Number of Edges 153138
+==============================================
+Results for k=2
+---------------------
+Property 9 holds for 0%
+Property 10 holds for 41.79%
+Property 11 holds for 40.43%
+One of the properties hold for 82.22%
+Exact Percentage: 6.07%
+Worst Case Percentage: 0.2%
+Average Stretch when properties hold: 1.55
+Average Stretch when properties don't hold: 2.11
+Average Stretch: 1.65
+==============================================
+
+==============================================
+Results for k=3
+---------------------
+Property 9 holds for 44.82%
+Property 10 holds for 67.75%
+Property 11 holds for 44.22%
+One of the properties hold for 100%
+Exact Percentage: 3.53%
+Worst Case Percentage: 0.04%
+Average Stretch when properties hold: 1.75
+Average Stretch when properties don't hold: -
+Average Stretch: 1.75
+==============================================
+
+==============================================
+Results for k=5
+---------------------
+Property 9 holds for 73.52%
+Property 10 holds for 87.02%
+Property 11 holds for 50.79%
+One of the properties hold for 100%
+Exact Percentage: 2.23%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.82
+Average Stretch when properties don't hold: -
+Average Stretch: 1.82
+==============================================
+
+==============================================
+Results for k=10
+---------------------
+Property 9 holds for 94.76%
+Property 10 holds for 96.65%
+Property 11 holds for 47.76%
+One of the properties hold for 100%
+Exact Percentage: 2.99%
+Worst Case Percentage: 0%
+Average Stretch when properties hold: 1.71
+Average Stretch when properties don't hold: -
+Average Stretch: 1.71
+==============================================

@@ -82,18 +82,65 @@ class DistanceOracleExperiment {
                 },
                 parser: parser3
             },
+            twitch_DE: {
+                name: 'Twitch DE',
+                datasetLocation: 'social/twitch_DE_edges.csv',
+                targetStoreName: 'twitch_DE',
+                relabelNodes: true,
+                workers: {
+                    number:8,
+                    batchSize: 500
+                },
+                parser: parser2
+            },
+            fb_pages_new_sites: {
+                name: 'Facebook New Sites Pages',
+                datasetLocation: 'social/fb_pages_new_sites_edges.csv',
+                targetStoreName: 'fb_pages_new_sites',
+                relabelNodes: true,
+                workers: {
+                    number:8,
+                    batchSize: 500
+                },
+                parser: parser2
+            },
+            fb_pages_artist: {
+                name: 'Facebook Artist Pages',
+                datasetLocation: 'social/fb_pages_artist_edges.csv',
+                targetStoreName: 'fb_pages_artist',
+                relabelNodes: true,
+                workers: {
+                    number:8,
+                    batchSize: 1000
+                },
+                parser: parser2
+            },
+            github: {
+                name: 'Github',
+                datasetLocation: 'social/git_edges.csv',
+                targetStoreName: 'github',
+                relabelNodes: true,
+                workers: {
+                    number:8,
+                    batchSize: 500
+                },
+                parser: parser2
+            },
         }
     }
 
     async run(){
-        let config = this.experiments.oregon2_010331
+        let config = this.experiments.github
         // let graph = this.readGraph(config)
         // console.log(graph.n)
         // console.log(graph.m)
+        // let covered = new BFS().getConnectedComponent(graph, 0)
+        // console.log(covered.size)
         // return
         // await this.storeGraphDistances(config)
         // return
-        // let distanceMatrix = await this.restoreDistanceMatrixFromDB(config)
+        // let distanceMatrix
+        // distanceMatrix = await this.restoreDistanceMatrixFromDB(config)
         // console.log(distanceMatrix.getDiameter())
         await this.runDistanceOracleExperiment(config)
     }
