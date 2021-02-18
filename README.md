@@ -1,5 +1,29 @@
 # distance-oracle-experiment
 
+
+
+## Prerequisite
+
+1. NPM + NodeJS (v12 and above).
+2. MongoDB (v4 and above) - optional.
+3. At Least 16 GB RAM.
+
+## Experiment
+
+Step 1 - Parse & Load graph edges into undirected graph data-structure. 
+Step 2 - Compute using BFS or Dijkstra algorithm Distance Matrix for all vertex pairs.
+Step 3 - Construct Thorup & Zwick Distance Oracle for k=2, 3, 5, 10.
+Step 4 - Calculate statistics for Properties 9, 10 & 11 of PUT_PAPER_LINK_HERE.
+
+### Implementation Notes
+
+1. Code assumes distance matrix fits into RAM.
+2. To save RAM: distance matrix is represented by triangle matrix of unsigned short or unsigned int arrays.
+3. All datasets with N nodes that are assumed to form the following numeric node ID sequence: {0, 1, 2,...,N-1}. If this assumption doesn't hold, code relabaled nodes adequately.
+4. If the graph of a dataset is not connected, the largest connected component is considered for the experitment.
+5. Step 2 is done by workers to utilize multi-core.
+6. Optionally save distance matrix in Mongo DB.
+
 ## Datasets
 
 ### Social
