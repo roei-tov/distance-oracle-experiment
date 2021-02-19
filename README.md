@@ -1,12 +1,12 @@
 # distance-oracle-experiment
 
-
+This code project examines the frequency of Properties 9, 10 & 11 suggested in PUT_PAPER_LINK_HERE, when constructing Thorup and Zwick Distance Oracle on real-world undirected graphs.
 
 ## Prerequisite
 
 1. NPM + NodeJS (v12 and above).
 2. MongoDB (v4 and above) - optional.
-3. At Least 16 GB RAM.
+3. Machine: multi-core CPU with at Least 16 GB RAM.
 
 ## Experiment
 
