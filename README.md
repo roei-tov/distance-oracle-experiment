@@ -1,6 +1,6 @@
 # distance-oracle-experiment
 
-This code project examines the frequency of Properties 9, 10 & 11 suggested in [this paper]https://github.com/roei-tov/distance-oracle-experiment/blob/main/papers/do-imp.pdf, when constructing Thorup and Zwick Distance Oracle on real-world undirected graphs.
+This code project examines the frequency of Properties 9, 10 & 11 suggested in [this paper](https://github.com/roei-tov/distance-oracle-experiment/blob/main/papers/do-imp.pdf), when constructing Thorup and Zwick Distance Oracle on real-world undirected graphs.
 
 ## Prerequisite
 
