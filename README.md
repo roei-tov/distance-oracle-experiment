@@ -1,14 +1,16 @@
 # distance-oracle-experiment
 
-
+This code project examines the frequency of Properties 9, 10 & 11 suggested in PUT_PAPER_LINK_HERE, when constructing Thorup and Zwick Distance Oracle on real-world undirected graphs.
 
 ## Prerequisite
 
 1. NPM + NodeJS (v12 and above).
 2. MongoDB (v4 and above) - optional.
-3. At Least 16 GB RAM.
+3. Machine: multi-core CPU with at Least 16 GB RAM.
 
 ## Experiment
+
+For each dataset:
 
 Step 1 - Parse & Load graph edges into undirected graph data-structure. 
 
@@ -25,8 +27,8 @@ Step 4 - Calculate statistics for Properties 9, 10 & 11 of PUT_PAPER_LINK_HERE.
 2. To save RAM: distance matrix is represented by triangle matrix of unsigned short or unsigned int arrays.
 3. All datasets with N nodes that are assumed to form the following numeric node ID sequence: {0, 1, 2,...,N-1}. If this assumption doesn't hold, code relabaled nodes adequately.
 4. If the graph of a dataset is not connected, the largest connected component is considered for the experitment.
-5. Step 2 is done by workers to utilize multi-core.
-6. Optionally save distance matrix in Mongo DB.
+5. Step 2 is done by workers to utilize multi-core CPU.
+6. As an intermediate step distance matrix is saved into DB (Mongo DB) - this part is optional.
 
 ## Datasets
 
