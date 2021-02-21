@@ -18,7 +18,7 @@ Step 2 - Compute using BFS or Dijkstra algorithm Distance Matrix for all vertex 
 
 Step 3 - Construct Thorup & Zwick Distance Oracle for k=2, 3, 5, 10.
 
-Step 4 - Calculate statistics for Properties 1, 2 & 3 in [this paper](https://github.com/roei-tov/distance-oracle-experiment/blob/main/papers/do-imp.pdf).
+Step 4 - Calculate statistics for Properties 1, 2 & 3 in this [paper](https://github.com/roei-tov/distance-oracle-experiment/blob/main/papers/do-imp.pdf).
 
 
 ### Implementation Notes
